@@ -1,0 +1,142 @@
+.container1{
+    background-image: url("rajasthan.png");
+   background-size: 1000px 225px;
+   background-repeat: no-repeat;
+  height: 200px;
+   font-family: 'Kanit', sans-serif;
+   color: #372aa5;
+}
+
+
+header ul{
+    list-style: none;
+    float: right;
+}
+header ul li{
+    display: inline-block;
+    
+}
+header a{
+    text-decoration: none;
+    padding: 3px;
+    color: #4f2aa5;
+    
+ 
+   
+}
+.card{
+    width: 70%;
+    background-color: lightcoral;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 60px;
+    
+ 
+
+}
+.img{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+
+.card:hover{
+    color: lavender;
+    background-color: #139ca7;
+    box-shadow: 10px 10px 8px #888888;
+    transition: 1s;
+}
+.img{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+} 
+ul{
+    list-style: none;
+}
+.des{
+    font-family: 'Kanit', sans-serif;
+    color: #820000;
+}
+ h1,h2{
+    text-align: center;
+}
+.span{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+.span1{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+.span2{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+iframe{
+    margin-top: 120px;
+}
+ul li{
+    font-family: 'Kanit', sans-serif;
+    color: #820000;
+
+
+}
+ main p:hover{
+    color: #a4f04e;
+}
+ main ul li:hover{
+    color: #a4f04e;
+}
+
+ 
+footer ul{
+    list-style: none;
+    
+
+ 
+}
+footer  ul li{
+    display: inline-block;
+    padding: 10px;
+    float: right;
+ 
+    
+
+}
+footer h2{
+    color: #2b62e2;
+    text-align: right;
+  margin-right: 15px;
+}
+.copyright{
+    font-size: 15px;
+    color: #000;
+   
+    
+}
+.foot{
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+   
+}
+footer{
+    background: linear-gradient(to top right,#000c40,#F0F2F0);
+    height: 120px;
+    bottom: 0%;
+    
+} 
+.span0{
+    font-family: 'Macondo', cursive;
+    color: #d21e1e;
+}
+.span3{
+    font-family: 'Macondo', cursive;
+    color: #d21e1e;
+}
+
